@@ -1,0 +1,150 @@
+D:\USER_DATA\Vijay\projects\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\SalesOrderCompletion.dll
+D:\USER_DATA\Vijay\projects\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\SalesOrderCompletion.pdb
+D:\USER_DATA\Vijay\projects\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\EASendMail.dll
+D:\USER_DATA\Vijay\projects\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\HtmlAgilityPack.dll
+D:\USER_DATA\Vijay\projects\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\Ionic.Zip.dll
+D:\USER_DATA\Vijay\projects\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\itextsharp.dll
+D:\USER_DATA\Vijay\projects\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\Newtonsoft.Json.dll
+D:\USER_DATA\Vijay\projects\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.csprojResolveAssemblyReference.cache
+D:\USER_DATA\Vijay\projects\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.dll
+D:\USER_DATA\Vijay\projects\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.pdb
+D:\USER_DATA\Vijay\Storefront Upgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\SalesOrderCompletion.dll
+D:\USER_DATA\Vijay\Storefront Upgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\SalesOrderCompletion.pdb
+D:\USER_DATA\Vijay\Storefront Upgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\Newtonsoft.Json.dll
+D:\USER_DATA\Vijay\Storefront Upgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.dll
+D:\USER_DATA\Vijay\Storefront Upgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.pdb
+D:\USER_DATA\ROHIT\StorefrontNew\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\SalesOrderCompletion.dll
+D:\USER_DATA\ROHIT\StorefrontNew\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\SalesOrderCompletion.pdb
+D:\USER_DATA\ROHIT\StorefrontNew\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\Newtonsoft.Json.dll
+D:\USER_DATA\ROHIT\StorefrontNew\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.dll
+D:\USER_DATA\ROHIT\StorefrontNew\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.pdb
+D:\USER_DATA\ROHIT\StorefrontNew\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.csprojResolveAssemblyReference.cache
+D:\StoreFront\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\SalesOrderCompletion.dll
+D:\StoreFront\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\SalesOrderCompletion.pdb
+D:\StoreFront\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\ActivityLog.dll
+D:\StoreFront\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Net.Http.Formatting.dll
+D:\StoreFront\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Web.Http.dll
+D:\StoreFront\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.csprojResolveAssemblyReference.cache
+D:\StoreFront\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.dll
+D:\StoreFront\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.pdb
+E:\NewStorefront\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\SalesOrderCompletion.dll
+E:\NewStorefront\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\SalesOrderCompletion.pdb
+E:\NewStorefront\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.csprojResolveAssemblyReference.cache
+E:\NewStorefront\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.dll
+E:\NewStorefront\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.pdb
+E:\USER_DATA\SVN\UVAStorefrontUpgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\SalesOrderCompletion.dll
+E:\USER_DATA\SVN\UVAStorefrontUpgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\SalesOrderCompletion.pdb
+E:\USER_DATA\SVN\UVAStorefrontUpgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Net.Http.Formatting.dll
+E:\USER_DATA\SVN\UVAStorefrontUpgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Web.Http.dll
+E:\USER_DATA\SVN\UVAStorefrontUpgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\Newtonsoft.Json.dll
+E:\USER_DATA\SVN\UVAStorefrontUpgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Net.Http.Formatting.xml
+E:\USER_DATA\SVN\UVAStorefrontUpgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Web.Http.xml
+E:\USER_DATA\SVN\UVAStorefrontUpgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.csprojResolveAssemblyReference.cache
+E:\USER_DATA\SVN\UVAStorefrontUpgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.dll
+E:\USER_DATA\SVN\UVAStorefrontUpgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.pdb
+E:\NewStorefront\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\Newtonsoft.Json.dll
+E:\NewStorefront\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Net.Http.Formatting.xml
+E:\NewStorefront\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Web.Http.xml
+E:\USER_DATA\SVN\UVAStorefrontUpgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\itextsharp.dll
+E:\USER_DATA\Devendra\UVAStorefrontUpgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\SalesOrderCompletion.dll
+E:\USER_DATA\Devendra\UVAStorefrontUpgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\SalesOrderCompletion.pdb
+E:\USER_DATA\Devendra\UVAStorefrontUpgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\itextsharp.dll
+E:\USER_DATA\Devendra\UVAStorefrontUpgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Net.Http.Formatting.dll
+E:\USER_DATA\Devendra\UVAStorefrontUpgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Web.Http.dll
+E:\USER_DATA\Devendra\UVAStorefrontUpgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\Newtonsoft.Json.dll
+E:\USER_DATA\Devendra\UVAStorefrontUpgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Net.Http.Formatting.xml
+E:\USER_DATA\Devendra\UVAStorefrontUpgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Web.Http.xml
+E:\USER_DATA\Devendra\UVAStorefrontUpgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.csproj.CoreCompileInputs.cache
+E:\USER_DATA\Devendra\UVAStorefrontUpgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.csproj.CopyComplete
+E:\USER_DATA\Devendra\UVAStorefrontUpgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.dll
+E:\USER_DATA\Devendra\UVAStorefrontUpgrade\trunk\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.pdb
+C:\Users\shiri\Documents\My Web\StoreFront\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.csproj.AssemblyReference.cache
+C:\Users\shiri\Documents\My Web\StoreFront\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.csproj.CoreCompileInputs.cache
+C:\Users\shiri\Documents\My Web\StoreFront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\SalesOrderCompletion.dll
+C:\Users\shiri\Documents\My Web\StoreFront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\SalesOrderCompletion.pdb
+C:\Users\shiri\Documents\My Web\StoreFront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\ActivityLog.dll
+C:\Users\shiri\Documents\My Web\StoreFront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\shiri\Documents\My Web\StoreFront\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.csproj.CopyComplete
+C:\Users\shiri\Documents\My Web\StoreFront\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.dll
+C:\Users\shiri\Documents\My Web\StoreFront\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.pdb
+E:\USER_DATA\Jyoti\storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\SalesOrderCompletion.dll
+E:\USER_DATA\Jyoti\storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\SalesOrderCompletion.pdb
+E:\USER_DATA\Jyoti\storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\ActivityLog.dll
+E:\USER_DATA\Jyoti\storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\itextsharp.dll
+E:\USER_DATA\Jyoti\storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Net.Http.Formatting.dll
+E:\USER_DATA\Jyoti\storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Web.Http.dll
+E:\USER_DATA\Jyoti\storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Web.Http.xml
+E:\USER_DATA\Jyoti\storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.csproj.AssemblyReference.cache
+E:\USER_DATA\Jyoti\storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.csproj.CoreCompileInputs.cache
+E:\USER_DATA\Jyoti\storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.csproj.CopyComplete
+E:\USER_DATA\Jyoti\storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.dll
+E:\USER_DATA\Jyoti\storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.pdb
+E:\USER_DATA\sanjay\SF\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\SalesOrderCompletion.dll
+E:\USER_DATA\sanjay\SF\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\SalesOrderCompletion.pdb
+E:\USER_DATA\sanjay\SF\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\ActivityLog.dll
+E:\USER_DATA\sanjay\SF\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\itextsharp.dll
+E:\USER_DATA\sanjay\SF\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Net.Http.Formatting.dll
+E:\USER_DATA\sanjay\SF\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Web.Http.dll
+E:\USER_DATA\sanjay\SF\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Web.Http.xml
+E:\USER_DATA\sanjay\SF\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.csproj.AssemblyReference.cache
+E:\USER_DATA\sanjay\SF\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.csproj.CoreCompileInputs.cache
+E:\USER_DATA\sanjay\SF\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.csproj.CopyComplete
+E:\USER_DATA\sanjay\SF\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.dll
+E:\USER_DATA\sanjay\SF\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.pdb
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\SalesOrderCompletion.dll.config
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\SalesOrderCompletion.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\SalesOrderCompletion.pdb
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\ActivityLog.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\Microsoft.Extensions.Options.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\PdfSharp.Charting.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\PdfSharp.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\PdfSharp.Quality.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\PdfSharp.Snippets.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\PdfSharp.System.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\PdfSharp.WPFonts.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Buffers.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Memory.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Net.Http.Formatting.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Numerics.Vectors.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.ValueTuple.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\Microsoft.Extensions.Options.xml
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\PdfSharp.pdb
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\PdfSharp.xml
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\PdfSharp.Charting.pdb
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\PdfSharp.Charting.xml
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\PdfSharp.Quality.pdb
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\PdfSharp.Quality.xml
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\PdfSharp.Snippets.pdb
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\PdfSharp.System.pdb
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\PdfSharp.System.xml
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\PdfSharp.WPFonts.pdb
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\PdfSharp.WPFonts.xml
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Buffers.xml
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Memory.xml
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Numerics.Vectors.xml
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\System.ValueTuple.xml
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\de\PdfSharp.resources.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.csproj.AssemblyReference.cache
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.csproj.CoreCompileInputs.cache
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrd.CB076FE5.Up2Date
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.dll
+C:\SVN\Storefront\Modules\SalesOrderCompletion\SalesOrderCompletion\obj\Debug\SalesOrderCompletion.pdb
