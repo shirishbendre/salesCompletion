@@ -1,0 +1,348 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Darden store. Order Details</title>
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <!-- Google code for Analytics tracking -->
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-0000000-0']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+    <link href="/Themes/DarkOrange/Content/styles.css" rel="stylesheet" type="text/css" />
+    <link href="/Content/smoothness/jquery-ui-1.8.17.custom.css" rel="stylesheet" type="text/css" />
+
+    <script src="/Scripts/jquery-1.7.1.min.js"></script>
+    <script src="/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="/Scripts/jquery.validate.min.js"></script>
+    <script src="/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="/Scripts/jquery-ui.min.js"></script>
+    <script src="/Scripts/public.common.js"></script>
+    <script src="/Scripts/public.ajaxcart.js"></script>
+
+    <!--Powered by nopCommerce - http://www.nopCommerce.com-->
+    <!--Copyright (c) 2008-2012-->
+
+    <style>
+        <!-- /* Font Definitions */
+
+        @font-face {
+            font-family: "Cambria Math";
+            panose-1: 2 4 5 3 5 4 6 3 2 4;
+        }
+
+        @font-face {
+            font-family: Calibri;
+            panose-1: 2 15 5 2 2 2 4 3 2 4;
+        }
+
+        @font-face {
+            font-family: Tahoma;
+            panose-1: 2 11 6 4 3 5 4 4 2 4;
+        }
+
+        @font-face {
+            font-family: Verdana;
+            panose-1: 2 11 6 4 3 5 4 4 2 4;
+        }
+        /* Style Definitions */
+
+        p.MsoNormal, li.MsoNormal, div.MsoNormal {
+            margin: 0in;
+            margin-bottom: .0001pt;
+            font-size: 12.0pt;
+            font-family: "Times New Roman","serif";
+        }
+
+        a:link, span.MsoHyperlink {
+            mso-style-priority: 99;
+            color: #0066CC;
+            text-decoration: underline;
+        }
+
+        a:visited, span.MsoHyperlinkFollowed {
+            mso-style-priority: 99;
+            color: purple;
+            text-decoration: underline;
+        }
+
+        p {
+            mso-style-priority: 99;
+            mso-margin-top-alt: auto;
+            margin-right: 0in;
+            mso-margin-bottom-alt: auto;
+            margin-left: 0in;
+            font-size: 12.0pt;
+            font-family: "Times New Roman","serif";
+        }
+
+        span.small {
+            mso-style-name: small;
+        }
+
+        span.price {
+            mso-style-name: price;
+        }
+
+        span.EmailStyle20 {
+            mso-style-type: personal-reply;
+            font-family: "Calibri","sans-serif";
+            color: windowtext;
+        }
+
+        .MsoChpDefault {            
+            mso-style-type: export-only;
+            font-size: 10.0pt;
+        }
+
+        @page WordSection1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in 1.0in 1.0in 1.0in;
+        }
+
+        div.WordSection1 {
+            page: WordSection1;
+        }
+        #_x0000_i1025 {
+            height: 43px;
+        }
+        .MsoNormalTable {
+            margin-right: 0px;
+        }
+        .auto-style1 {
+            height: 108px;
+        }
+        -->
+    </style>
+</head>
+<body>
+    <div class="master-wrapper-page">
+
+        <div class="master-wrapper-content">
+            <script type="text/javascript">
+                AjaxCart.init(false, '.header-links .cart-qty', '.header-links .wishlist-qty', '#flyout-cart');
+            </script>
+            <div class="ajax-loading-block-window" style="display: none">
+                <div class="loading-image">
+                </div>
+            </div>
+            <div class="master-wrapper-main">
+                <div class="master-wrapper-center-1">
+                    <div class="page order-details">
+                        <div class="page-title">
+                            <div class="title">
+                                <h3>Thank you for you order userName!</h3>
+                            </div>
+                        </div>
+                        <div class="MsoNormal">
+                        </div>
+                        <div class="page-body">
+
+                            <div class="order-overview">
+                                <table class="order-overview-table">
+                                    <tbody>
+                                        <tr>
+                                            <td colspan="2">
+                                                <strong>Order # Id</strong></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Order Date: OrderDate
+                                            </td>
+                                            <td class="order-total-top">Order Total: OrderTotal<span class="nobr">
+                                            </span>
+                                            </td>
+                                        </tr>
+
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="clear">
+                            </div>
+                            <div class="order-details-box">
+                                <table class="order-details-table">
+                                    <tbody>
+                                        <tr>
+                                            <td class="billinginfo">
+                                                <div class="title" style='background: #094182';>
+                                                   <strong>Billing Address</strong>
+                                                </div>
+                                                <div class="name">
+                                                    UserName
+                                                </div>
+                                                <!--<div class="email">
+                                                    Email: BEmail
+                                                </div>-->
+                                                <div class="phone">
+                                                    Phone: BPhone
+                                                </div>
+                                                <div class="fax">
+                                                    Fax: BFax
+                                                </div>
+                                                <div class="company">
+                                                    BCompany
+                                                </div>
+                                                <div class="address1">
+                                                    BAddress1 
+                                                </div>
+                                                <div class="address2">
+                                                    BAddress2
+                                                </div>
+                                                <div class="city-state-zip">
+                                                    BCity                                                                            ,
+                                                    <!--BState-->
+                                                    BZip
+                                                </div>
+                                                <!-- <div class="country">
+                                                    BCountry
+                                                </div>-->
+                                                <div class="payment-method">
+                                                    <div class="payment-method-label">
+                                                        <strong>Payment Method</strong>
+                                                    </div>
+                                                    <div class="payment-method-value">
+                                                        PaymentMethod
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td class="shippinginfo">
+                                                <div class="title">
+                                                    <strong>Shipping Address</strong>
+                                                </div>
+                                                <div class="name">
+                                                    SUserName
+                                                </div>
+                                               <!-- <div class="email">
+                                                    Email: SEmail
+                                                </div>-->
+                                                <div class="phone">
+                                                    Phone: SPhone
+                                                </div>
+                                                <div class="fax">
+                                                    Fax: 
+                                                    SFax
+                                                </div>
+                                                <div class="company">
+                                                    SCompany
+                                                </div>
+                                                <div class="address1">
+                                                    SAddress1
+                                                </div>
+                                                <div class="address2">
+                                                    SAddress2
+                                                </div>
+                                                <div class="city-state-zip">
+                                                    SCity,
+                                                    <!--SState,-->
+                                                    SZip
+                                                </div>
+                                                <!-- <div class="country">
+                                                    SCountry</div>-->
+                                                <div class="shipping-method">
+                                                    <div class="shipping-method-label">
+                                                        <strong>Shipping Method</strong>
+                                                    </div>
+                                                    <div class="shipping-method-value">
+                                                        ShippingMethod
+                                                    </div>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="clear">
+                            </div>
+
+                            <div class="section-title">
+                                Product(s)
+                            </div>
+                            <div class="clear">
+                            </div>
+                            <div class="products-box">
+                                <table class="data-table">
+                                    <col />
+                                    <col />
+                                    <col />
+                                    <col />
+                                    <thead>
+                                        <tr>
+                                            <th class="a-center">Name</th>
+                                            <th class="a-center">Price</th>
+                                            <th class="a-center">Quantity</th>
+                                            <th class="a-center">Total</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr id="product">
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <div class="clear">
+                                </div>
+                            </div>
+
+                            <div class="total-info">
+                                <table class="cart-total">
+                                    <tbody>
+                                        <tr>
+                                            <td class="cart-total-left">
+                                                <strong>Sub-Total:</strong>
+                                            </td>
+                                            <td class="cart-total-right">OrderSubtotalExclTax</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="cart-total-left">
+                                                <strong>Shipping:</strong>
+                                            </td>
+                                            <td class="cart-total-right">OrderShippingExclTax<span class="nobr">
+                                            </span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="cart-total-left">
+                                                <strong>Tax:</strong>
+                                            </td>
+                                            <td class="cart-total-right">OrderTax</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="cart-total-left">
+                                                <strong>Order Total:</strong>
+                                            </td>
+                                            <td class="cart-total-right">OrderTotal<span class="nobr">
+                                            </span>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="clear">
+                            </div>
+                            <div class="clear">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <div class="footer-poweredby">
+                Powered by <a href="http://www.nopcommerce.com/">nopCommerce</a>
+                <!--Would you like
+                to remove the "Powered by nopCommerce" link in the bottom of the footer? Find more
+                info here http://www.nopcommerce.com/copyrightremoval.aspx -->
+            </div>
+            <div class="footer-store-theme">
+            </div>
+        </div>
+    </div>
+</body>
+</html>
